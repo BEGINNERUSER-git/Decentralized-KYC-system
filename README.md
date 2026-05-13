@@ -74,9 +74,6 @@ This architecture transforms identity from a centralized liability into a decent
           │────────→│  Verification UI   │
                     └────────────────────┘
 
-[Detailed Architecture Placeholder]
-📊 Replace this with your SIH 2025 architecture diagram
-```
 
 ---
 
@@ -170,7 +167,7 @@ This architecture transforms identity from a centralized liability into a decent
 
 ![User Registration Flow](https://via.placeholder.com/800x400?text=User+ID+Registration+Placeholder)
 
-*Replace with screenshot: User enters DID, selects document type, uploads identity document*
+<img width="1600" height="812" alt="PHOTO-2026-05-12-22-54-44" src="https://github.com/user-attachments/assets/edf03a05-1a25-4564-897e-6e0414d0ea56" />
 
 **User Actions:**
 1. Create unique DID (did:polygon:amoy:...)
@@ -184,7 +181,12 @@ This architecture transforms identity from a centralized liability into a decent
 
 ![MetaMask Integration](https://via.placeholder.com/800x400?text=MetaMask+Connection+Placeholder)
 
-*Replace with screenshot: MetaMask popup, user signing credential issuance transaction*
+<img width="1435" height="898" alt="Screenshot 2026-05-12 at 2 50 24 AM" src="https://github.com/user-attachments/assets/2eb21d9e-c771-425f-a6ef-832fa81f3bed" />
+<img width="1435" height="898" alt="Screenshot 2026-05-12 at 2 50 42 AM" src="https://github.com/user-attachments/assets/3608f63e-b8a4-4ee8-8287-62abd2be4aa2" />
+
+<img width="1435" height="898" alt="Screenshot 2026-05-12 at 11 37 04 AM" src="https://github.com/user-attachments/assets/3e4867f5-13b6-4f79-b5f5-b21630917da3" />
+<img width="1435" height="898" alt="Screenshot 2026-05-12 at 11 52 05 AM" src="https://github.com/user-attachments/assets/4baf8214-21d6-4b77-baac-649d58f6c7fc" />
+
 
 **Technical Flow:**
 1. Frontend prompts user to connect MetaMask wallet
@@ -199,7 +201,8 @@ This architecture transforms identity from a centralized liability into a decent
 
 ![Credential Management](https://via.placeholder.com/800x400?text=Credential+Dashboard+Placeholder)
 
-*Replace with screenshot: Dashboard showing issued credentials, status, and sharing options*
+<img width="1600" height="791" alt="PHOTO-2026-05-12-22-55-07" src="https://github.com/user-attachments/assets/90a3dd39-b636-4512-afef-15caea7fafaf" />
+
 
 **Features:**
 - View all issued verifiable credentials
@@ -635,3 +638,13 @@ MIT License - See [LICENSE](./LICENSE) file for details
 | **W3C Verifiable Credentials** | https://www.w3.org/TR/vc-data-model/ |
 | **Hardhat Documentation** | https://hardhat.org/docs |
 | **Tesseract OCR** | https://github.com/UB-Mannheim/tesseract |
+
+
+
+
+https://github.com/user-attachments/assets/05c136b4-6273-486a-bc89-0bd0a9518ab6
+
+
+\
+
+
