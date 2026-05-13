@@ -180,12 +180,13 @@ This architecture transforms identity from a centralized liability into a decent
 ### **Step 2: MetaMask Connection & Consent**
 
 ![MetaMask Integration](https://via.placeholder.com/800x400?text=MetaMask+Connection+Placeholder)
+<img width="1435" height="699" alt="Screenshot 2026-05-12 at 2 47 57 AM" src="https://github.com/user-attachments/assets/1c1f1277-2f99-420b-92b0-880486c4ac5f" />
 
 <img width="1435" height="898" alt="Screenshot 2026-05-12 at 2 50 24 AM" src="https://github.com/user-attachments/assets/2eb21d9e-c771-425f-a6ef-832fa81f3bed" />
 <img width="1435" height="898" alt="Screenshot 2026-05-12 at 2 50 42 AM" src="https://github.com/user-attachments/assets/3608f63e-b8a4-4ee8-8287-62abd2be4aa2" />
 
-<img width="1435" height="898" alt="Screenshot 2026-05-12 at 11 37 04 AM" src="https://github.com/user-attachments/assets/3e4867f5-13b6-4f79-b5f5-b21630917da3" />
-<img width="1435" height="898" alt="Screenshot 2026-05-12 at 11 52 05 AM" src="https://github.com/user-attachments/assets/4baf8214-21d6-4b77-baac-649d58f6c7fc" />
+<img width="1435" height="898" alt="Screenshot 2026-05-12 at 2 51 14 AM" src="https://github.com/user-attachments/assets/ac18da29-d44c-46c1-9000-2d51d038251c" />
+
 
 
 **Technical Flow:**
