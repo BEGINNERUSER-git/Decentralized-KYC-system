@@ -617,7 +617,6 @@ MIT License - See [LICENSE](./LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
-- **SIH 2025** - Smart India Hackathon fintech cohort
 - **Polygon Labs** - Infrastructure & testnet support
 - **W3C Credentials Community Group** - Standards & specifications
 
